@@ -12,3 +12,5 @@ https://github.com/homgwu/picgenerator
 拿不到我 想要的效果
 
 ![image](https://github.com/zhuzhutai/SavePng/blob/master/record.gif)
+
+https://www.bilibili.com/video/av81780725
