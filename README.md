@@ -1,5 +1,9 @@
 # SavePng
 
+## 实现截图分享
+### 分别是卡片式Viewpager的列子
+### 后台动态填充生成图片的列子
+
 https://github.com/homgwu/picgenerator
 
 以上是大神原代码地址
